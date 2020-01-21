@@ -85,6 +85,7 @@ img::-moz-selection {
 img.rounded-corners {
 
   border-radius: 30px;
+  padding: 20px;
 
 }V
 
