@@ -82,12 +82,6 @@ img::-moz-selection {
   background: transparent;
 }
 
-img.myclass {
-
-  border-radius: 80px;
-  padding: 80px;
-
-}
 
 
 .btn {
