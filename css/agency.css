@@ -82,7 +82,7 @@ img::-moz-selection {
   background: transparent;
 }
 
-.intro-text .myclass img {
+img.myclass {
 
   border-radius: 80px;
   padding: 80px;
