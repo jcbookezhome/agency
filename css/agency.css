@@ -13,7 +13,7 @@ p {
   line-height: 1.75;
 }
 
-#bootstrap-overrides p  {
+#bootstrap-overrides .my-p p  {
 font-size:90px;
 }
 
